@@ -3,6 +3,7 @@ layout: default
 title: home
 ---
 
-# Test Website Info Here
+# Isaac Eckardt
+Portfolio
 
-[about me](about) • [projects](projects) • [contact](contact)
+## [about me](about) - [projects](projects) - [contact](contact)
