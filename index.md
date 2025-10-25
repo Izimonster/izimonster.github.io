@@ -3,7 +3,6 @@ layout: single
 title: Home
 author_profile: true
 ---
-# Home
 
 uhhh what do people put on their home pages? thats what would go here
 
