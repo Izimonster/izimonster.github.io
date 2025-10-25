@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: single
 title: home
+author_profile: true
 ---
 
 # Isaac Eckardt
