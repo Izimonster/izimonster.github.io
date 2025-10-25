@@ -1,15 +1,9 @@
 ---
 layout: single
-title: about
+title: Projects
 permalink: /projects/
 author_profile: true
 ---
-# [Home](/) 
-
-
-
-#Projects
-
 ### finished projects go here
 
 
