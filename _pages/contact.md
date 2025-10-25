@@ -4,6 +4,8 @@ title: about
 permalink: /contact/
 author_profile: true
 ---
+# [Home](/home/) 
+
 
 ## Contact
 **contact1:** superrealcontactinfo
@@ -11,3 +13,5 @@ author_profile: true
 
 
 # big text box that starts email to me here
+
+## [About Me](/about/) - [Projects](/projects/) - [Contact](/contact/)
