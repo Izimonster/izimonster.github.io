@@ -1,3 +1,4 @@
 title: Isaac Eckardt
 theme: jekyll-theme-minimal
-description: test site
+description: Portfolio
+markdown: kramdown
