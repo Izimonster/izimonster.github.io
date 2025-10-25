@@ -4,6 +4,9 @@ title: about
 permalink: /projects/
 author_profile: true
 ---
+# [Home](/home/) 
+
+
 
 #Projects
 
@@ -16,3 +19,5 @@ author_profile: true
 - Ezra Arcade
 - SAVE DORIAN
 - End Me 1-3
+
+## [About Me](/about/) - [Projects](/projects/) - [Contact](/contact/)
