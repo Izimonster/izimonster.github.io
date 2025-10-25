@@ -1,7 +1,9 @@
 title: Isaac Eckardt
-theme: jekyll-theme-tactile
+theme: jekyll-theme-minimal-mistakes
 description: Portfolio
 markdown: kramdown
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-remote-theme
