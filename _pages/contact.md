@@ -1,13 +1,9 @@
 ---
 layout: single
-title: about
+title: Contact Info
 permalink: /contact/
 author_profile: true
 ---
-# [Home](/) 
-
-
-## Contact
 **contact1:** superrealcontactinfo
 **contact2:** wow look here's a link to something
 
