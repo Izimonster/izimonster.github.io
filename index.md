@@ -1,2 +1,8 @@
+---
 layout: default
-title: Isaac
+title: home
+---
+
+# Test Website Info Here
+
+[about me](about) • [projects](projects) • [contact](contact)
