@@ -4,7 +4,7 @@ title: about
 permalink: /projects/
 author_profile: true
 ---
-# [Home](/home/) 
+# [Home](/) 
 
 
 
