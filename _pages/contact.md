@@ -4,7 +4,7 @@ title: about
 permalink: /contact/
 author_profile: true
 ---
-# [Home](/home/) 
+# [Home](/) 
 
 
 ## Contact
