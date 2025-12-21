@@ -1,13 +1,10 @@
 ---
-layout: single
-title: Contact Info
+title: "Contact"
+layout: "single"
 permalink: /contact/
-author_profile: true
+classes: wide
 ---
-**contact1:** superrealcontactinfo
-**contact2:** wow look here's a link to something
 
-
-# big text box that starts email to me here
-
-## [About Me](/about/) - [Projects](/projects/) - [Contact](/contact/)
+Email: [iebd6@umsystem.edu](mailto:iebd6@umsystem.edu)
+LinkedIn: []
+Github:
